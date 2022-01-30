@@ -1,0 +1,31 @@
+.edit {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.edit input {
+  width: 50%;
+}
+.edit button {
+  width: 50%;
+}
+#save {
+  background-color: chartreuse;
+  color: white;
+  width: 200px;
+  font-size: 30px;
+  border: transparent;
+  border-radius: 4px;
+  margin: 4px;
+  cursor: pointer;
+}
+#back {
+  background-color: rgb(255, 64, 0);
+  color: white;
+  width: 200px;
+  font-size: 30px;
+  border: transparent;
+  border-radius: 4px;
+  cursor: pointer;
+}

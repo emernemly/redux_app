@@ -1,0 +1,20 @@
+.done {
+  color: red;
+  text-decoration: line-through;
+}
+.filter {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 15px;
+}
+.filter button {
+  font-size: 30px;
+  margin: 5px;
+  border: transparent;
+  background-color: transparent;
+  cursor: pointer;
+}
+.filter button:hover {
+  color: red;
+}

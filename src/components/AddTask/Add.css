@@ -1,0 +1,22 @@
+.addName {
+  display: flex;
+  background-color: #c8c3c3;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 10px;
+}
+.addName button {
+  width: 40%;
+  background-color: greenyellow;
+  color: white;
+  font-size: 70px;
+  border: transparent;
+}
+.addName input {
+  width: 40%;
+  height: 50px;
+  padding-bottom: 40px;
+  overflow-y: auto;
+  overflow-wrap: break-word;
+  font-size: 20px;
+}

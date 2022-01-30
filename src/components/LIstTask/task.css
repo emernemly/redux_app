@@ -1,0 +1,24 @@
+.oweadd {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #c8c3c3;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  flex-wrap: wrap;
+}
+.oweadd button {
+  width: 200px;
+  height: 50px;
+  border-radius: 4px;
+  background-color: rgb(185, 8, 8);
+  color: white;
+  font-size: 20px;
+  margin: 10px;
+  border: transparent;
+}
+.oweadd h2 {
+  word-break: break-all;
+  width: 50%;
+}
